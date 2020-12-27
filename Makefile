@@ -7,6 +7,7 @@ OBJS += ./imgui/imgui.o
 OBJS += ./imgui/imgui_draw.o
 OBJS += ./imgui/imgui_demo.o
 OBJS += ./imgui/imgui_widgets.o
+OBJS += ./imgui/imgui_tables.o
 
 CXXFLAGS=-O2 -fno-exceptions -fno-rtti
 
